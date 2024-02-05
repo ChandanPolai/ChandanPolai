@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan polai</h1>
 <h3 align="center">🌐Crafting Elegant Code for a Connected World</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanpolai&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="chandanpolai" /> </p>
 
 - 🌱 I’m currently learning **React 
 
