@@ -2,9 +2,9 @@
 <h3 align="center">🌐Crafting Elegant Code for a Connected World</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanpolai&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="chandanpolai" /> </p>
 
-- 🌱 I’m currently learning **React 
+- 🌱 I’m currently learning BACKEND DEVLOPMENT 
 
-- 💬 Ask me about **web devlopment,SQL,video editing**
+- 💬 Ask me about **web devlopment,react,frontend devlopment,video editing**
 
 - 📫 How to reach me **chandanpolai26@gmail.com**
 
