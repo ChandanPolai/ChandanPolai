@@ -2,9 +2,11 @@
 <h3 align="center">🌐Crafting Elegant Code for a Connected World</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanpolai&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="chandanpolai" /> </p>
 
-- 🌱 I’m currently learning BACKEND DEVLOPMENT 
+- 🌱 I’m currently learning NEXT.JS & Typescript
 
-- 💬 Ask me about **web devlopment,react,frontend devlopment,video editing**
+- 😮‍💨 I’m currently Doing a large fullstack project Like Youtube. 
+
+- 💬 Ask me about **web devlopment,react,frontend devlopment,video editing, backend devlopment**
 
 - 📫 How to reach me **chandanpolai26@gmail.com**
 
