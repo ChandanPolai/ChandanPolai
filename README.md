@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Chandan polai</h1>
-<h3 align="center">🌐Crafting Elegant Code for a Connected World</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanpolai&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="chandanpolai" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chandan+Polai!;" />
+</h1>
 
-- 🌱 I’m currently learning NEXT.JS & Typescript
+<h3 align="center">🚀A passionate Full stack developer and Gaming Youtuber from India</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=chandanpolai&label=Profile%20views&color=red&style=flat" alt="chandanpolai" />
 
-- 😮‍💨 I’m currently Doing a large fullstack project Like Youtube. 
+<br/>
 
-- 💬 Ask me about **web devlopment,react,frontend devlopment,video editing, backend devlopment**
+<div align="center">
+ 
+ - 🌱 I’m currently learning **NEXT.JS & TypeScript**
+
+- 😮‍💨 I’m currently doing a large fullstack project like **YouTube**. and continuously make shorts gaming videos to Enchance **videoEditing** Skills.
+
+- 💬 Ask me about **web development, React, frontend development, video editing, backend development**
 
 - 📫 How to reach me **chandanpolai26@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/polai5398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polai5398" height="30" width="40" /></a>
-<a href="https://youtube.com/@tgrpolai?si=ASsg3BfAVSTqjJJ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@conversationwithai-pm7ur" height="30" width="40" /></a>
-</p>
+ </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center"> 
+  <a href="mailto:chandanpolai26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://instagram.com/chaimentor_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/chandan-polai-835063270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://youtube.com/@tgrpolai?si=ASsg3BfAVSTqjJJ0" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanpolai&show_icons=true&locale=en&layout=compact" alt="chandanpolai" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanpolai&show_icons=true&locale=en" alt="chandanpolai" /></p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,c" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,appwrite,mongodb,nextjs" /><br>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanpolai&" alt="chandanpolai" /></p>
+<br/>
+<hr/>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chandanpolai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=chandanpolai&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chandanpolai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+<hr/>
