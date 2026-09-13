@@ -8,12 +8,13 @@
 <br/>
 
 <div align="center">
- 
- - 🌱 I’m currently learning **NEXT.JS & TypeScript**
+ - 🌱 I'm currently understanding **how AI agents work**
 
-- 😮‍💨 I’m currently doing a large fullstack project like **YouTube**. and continuously make shorts gaming videos to Enchance **videoEditing** Skills.
+- 😮‍💨 I'm currently doing a large fullstack project like **Ola, Uber, Rapido**. and continuously make shorts gaming videos to Enchance **videoEditing** Skills.
 
-- 💬 Ask me about **web development, React, frontend development, video editing, backend development**
+- 🎯 I'm also currently learning **AI Automation**, and improving my **communication & presentation skills**, so I can confidently pitch products in front of clients, investors, entrepreneurs, and business owners.
+
+- 💬 Ask me about **prompt engineering, project handling, server setup & server management, requirement gathering, the full-stack development process, and client outreach**.
 
 - 📫 How to reach me **chandanpolai26@gmail.com**
 
